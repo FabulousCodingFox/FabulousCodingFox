@@ -22,3 +22,8 @@
 ### ✔️ **Bukketlist**
 - [ ] Update FoxScript
 - [ ] Make a proper portfolio
+
+<hr>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabulousCodingFox&show_icons=true&locale=en&langs_count=10&theme=dracula" alt="FabulousCodingFox" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=FabulousCodingFox&show_icons=true&locale=en&theme=dracula" alt="FabulousCodingFox" /></p>
