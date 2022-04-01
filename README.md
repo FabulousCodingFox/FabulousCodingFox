@@ -1,23 +1,24 @@
+<h1 align="center">Hi 👋, I am FabulousFox</h1>
+<h3 align="center">I mostly create tools for already existing projects</h3>
 
-### 👋 Hi, im FabulousCodingFox, also known as FabulousFox
-
-### 💻 Programming Languages
+### 💻 **Programming Languages**
 - 🐍Python
 - ☕Java
+- 🟪PHP
 
+### 🚀 **API/Frameworks**
+- 🧮SQL
+- 🪣 Bukkit/Spigot/Paper, Datapacks
+- 📜Html/Css, Flask, Eel
+- 👾Pygame, Modern OpenGL
 
+<hr>
 
-<!--
-**FabulousCodingFox/FabulousCodingFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 **Contact**
+- 💬Discord: FabulousFox#9057
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✔️ **Bukketlist**
+- [ ] Update FoxScript
+- [ ] Make a proper portfolio
