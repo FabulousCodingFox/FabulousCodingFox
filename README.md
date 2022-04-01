@@ -1,4 +1,11 @@
-### Hi there 👋
+
+### 👋 Hi, im FabulousCodingFox, also known as FabulousFox
+
+### 💻 Programming Languages
+- 🐍Python
+- ☕Java
+
+
 
 <!--
 **FabulousCodingFox/FabulousCodingFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
