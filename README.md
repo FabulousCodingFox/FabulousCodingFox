@@ -4,13 +4,14 @@
 ### 💻 **Programming Languages**
 - 🐍Python
 - ☕Java
+- ➕C++
 - 🟪PHP
 
-### 🚀 **API/Frameworks**
+### 🚀 **APIs/Frameworks**
 - 🧮SQL
 - 🪣 Bukkit/Spigot/Paper, Datapacks
 - 📜Html/Css, Flask, Eel
-- 👾Pygame, Modern OpenGL
+- 👾Pygame, Modern OpenGL, Ray Marching/Tracing/Casting
 
 <hr>
 
