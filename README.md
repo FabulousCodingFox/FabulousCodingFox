@@ -5,9 +5,9 @@
 - 🐍Python
 - ☕Java
 - ➕C++
-- 🟪PHP
+(- 🟥Html+Css+Js+PHP)
 
-### 🚀 **APIs/Frameworks**
+### 🚀 **APIs/Frameworks/Methods**
 - 🧮SQL
 - 🪣 Bukkit/Spigot/Paper, Datapacks
 - 📜Html/Css, Flask, Eel
@@ -21,7 +21,6 @@
 <hr>
 
 ### ✔️ **Bukketlist**
-- [ ] Update FoxScript
 - [ ] Make a proper portfolio
 
 <hr>
