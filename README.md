@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am FabulousFox</h1>
-<h3 align="center">I mostly create tools for already existing projects</h3>
+<h3 align="center">I mostly code useless code</h3>
 
 ### 💻 **Programming Languages**
 - 🐍Python
