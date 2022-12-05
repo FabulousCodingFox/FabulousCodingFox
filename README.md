@@ -6,8 +6,7 @@
 ### 💻 **Programming Languages**
 - 🐍Python
 - ☕Java
-- ➕C++
-(- 🟥Html+Css+Js+PHP)
+- 🟥Html+Css+Js+PHP
 
 ### 🚀 **APIs/Frameworks/Methods**
 - 🧮SQL
