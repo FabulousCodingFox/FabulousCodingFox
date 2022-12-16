@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am FabulousFox</h1>
 <h3 align="center">I mostly code useless stuff</h3>
 
-<p align="center">(https://github.com/FabulousCodingFox)</p>
+<p align="center">(https://github.com/FabulousCodingFox || https://fabulouscodingfox.github.io/)</p>
 
 ### 💻 **Programming Languages**
 - 🐍Python
