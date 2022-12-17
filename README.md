@@ -22,7 +22,7 @@
 <hr>
 
 ### ✔️ **Bukketlist**
-- [ ] Make a proper portfolio
+- [x] Make a proper portfolio
 
 <hr>
 
