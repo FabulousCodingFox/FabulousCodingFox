@@ -20,7 +20,7 @@
 <ul>
     <li>🧮Data Storage: SQL(MariaDB, InnoDB), Redis</li>
     <li>⚓Virtualization: Docker + Compose</li>
-    <li>📜Web: Html/Css, Js/Ts</li>
+    <li>📜Web: Html/Css, Js/Ts, Wordpress, Tailwind, Bootstrap</li>
     <li>🛠️JS Frameworks: Svelte, Vue</li>
     <li>⚡API: FastAPI, Flask</li>
     <li>📗Minecraft: Spigot/Paper, Datapacks, Texturepacks, Custom Server Software</li>
